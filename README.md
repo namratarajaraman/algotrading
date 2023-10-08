@@ -1,2 +1,2 @@
 # algotrading
-Repo for implementation of different trading strategies. New at this, please don't laugh :D
+Repo for implementation of different trading strategies. I'm new in town, please don't laugh :D
